@@ -1,0 +1,11 @@
+{
+    "model_name": "TextGuard TF-IDF Logistic Classifier",
+    "model_version": "1.0.0",
+    "created_date": "2026-10-27 21:18:19",
+    "author": "AIUB Python Project Team",
+    "course": "CSC 4162 - Programming in Python",
+    "accuracy": "100.00%",
+    "f1_macro": 1.0,
+    "roc_auc": 1.0,
+    "input_features": "TF-IDF n-grams (1,2) with 20,000 vocabulary size"
+}

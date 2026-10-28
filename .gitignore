@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Testing caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# User output reports (keep sample/test files)
+reports/*.pdf
+reports/*.json
+reports/*.txt
+!reports/.gitkeep
+
+# Large datasets (exceeds GitHub 100MB limit)
+*.csv
+
+# Operating system
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
